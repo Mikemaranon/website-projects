@@ -1,0 +1,9 @@
+[submodule "Ask-Hifi"]
+	path = Ask-Hifi
+	url = https://github.com/Mikemaranon/Ask-Hifi
+[submodule "DrawIO-Diagrams"]
+	path = DrawIO-Diagrams
+	url = https://github.com/Mikemaranon/DrawIO-Diagrams
+[submodule "ForkySearch"]
+	path = ForkySearch
+	url = https://github.com/Mikemaranon/ForkySearch
